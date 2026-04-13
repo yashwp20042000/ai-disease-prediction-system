@@ -1,7 +1,7 @@
 import pandas as pd
 from sklearn.linear_model import LogisticRegression
 import joblib
-from ml.preprocessing import preprocess_data
+from preprocessing import preprocess_data
 import os
 
 if not os.path.exists("data/raw/diabetes.csv"):
