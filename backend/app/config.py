@@ -1,0 +1,1 @@
+MODEL_PATH = "models/trained_model.pkl"
